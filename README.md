@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/priyansshii7" target="blank"><img src="https://img.shields.io/twitter/follow/priyansshii7?logo=twitter&style=for-the-badge" alt="priyansshii7" /></a> </p>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **Achivo App**
 
 - 🌱 I’m currently learning **Java, Hive, Node.js**
 
-- 👯 I’m looking to collaborate on **Word-Wise-Puzzler App (gaming app)**
+- 👯 I’m looking to collaborate on **Achivo App for global use**
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **Firebase, Dart ,SQLite**
+- 💬 Ask me about **Java, Spring boot, Firebase, Dart ,SQLite**
 
 - 📫 How to reach me **srivastavapriyanshi8081@gmail.com**
 
