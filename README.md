@@ -54,5 +54,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshi-devops11&show_icons=true&locale=en" alt="priyanshi-devops11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-devops11&" alt="priyanshi-devops11" /></p>
-
-..
