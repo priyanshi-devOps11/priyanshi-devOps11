@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **Java, Spring boot, Firebase, Dart ,SQLite**
+- 💬 Ask me about **Java, Flutter, Spring boot, Firebase, Dart ,SQLite**
 
 - 📫 How to reach me **srivastavapriyanshi8081@gmail.com**
 
