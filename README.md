@@ -112,16 +112,17 @@ I'm excited to work on:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-devOps11&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=94a3b8)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-dev0ps11&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=94a3b8" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshi-devOps11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=f1f5f9" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-devOps11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=f1f5f9" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshi-dev0ps11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=f1f5f9&cache_seconds=1800" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-dev0ps11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=f1f5f9&cache_seconds=1800" width="49%" />
 
 <br/>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshi-devOps11&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshi-dev0ps11&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 ---
