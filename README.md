@@ -105,7 +105,6 @@ I'm excited to work on:
 - **LinkedIn**: [linkedin.com/in/priyanshi-srivastava8119](https://www.linkedin.com/in/priyanshi-srivastava8119/)
 - **Location**: Delhi NCR, India | Open to International Opportunities
 
----
 
 
 ## 📊 GitHub Overview
@@ -125,7 +124,7 @@ I'm excited to work on:
 <img src="https://github-profile-trophy.vercel.app/?username=priyanshi-dev0ps11&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
----
+
 
 ## ⚡ Fun Facts
 
