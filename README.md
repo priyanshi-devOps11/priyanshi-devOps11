@@ -14,7 +14,7 @@
 
 ---
 
-## 💼 Professional Summary-
+## About Me-
 
 I'm a passionate **Application Developer** specializing in building scalable applications with a vision for global impact. With expertise in full-stack development, cloud technologies, and DevOps practices, I'm developing solutions that prioritize user experience and technical excellence.
 
