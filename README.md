@@ -106,7 +106,7 @@ class PriyanshiSrivastava {
 - **Features**: Real-time collaboration, task automation, analytics dashboard
 - **Architecture**: Built with microservices for scalability
 
-<!-- ## 📈 GitHub Analytics
+📈 GitHub Analytics
 
 <div align="center">
   
@@ -116,11 +116,11 @@ class PriyanshiSrivastava {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-devOps11&theme=tokyonight&hide_border=true)
 
-</div> -->
+</div> 
 
 ---
 
-## 🎓 Education & Continuous Learning
+## 🎓 Education
 
 **Bachelor of Technology - Computer Science & Engineering**  
 SCRIET, CCS University, Meerut | Currently in 6th Semester
