@@ -14,21 +14,19 @@
 
 ---
 
-## 💼 Professional Summary
+## 💼 Professional Summary-
 
-I'm a passionate **Application Developer** specializing in building high-performance, scalable applications for global markets including **UK, Europe, US, and Australia**. With expertise in full-stack development, cloud technologies, and DevOps practices, I architect solutions that drive business growth and enhance user experiences.
-
-Currently leading development on enterprise-grade applications while pursuing **BTech in Computer Science & Engineering** at SCRIET, CCS University, Meerut. I thrive in international, fast-paced environments and am actively contributing to projects that serve users across multiple continents.
+I'm a passionate **Application Developer** specializing in building scalable applications with a vision for global impact. With expertise in full-stack development, cloud technologies, and DevOps practices, I'm developing solutions that prioritize user experience and technical excellence.
 
 ---
 
 ## 🎯 What I Do
 
-- 🏗️ **Architecture & Development**: Building production-ready applications using Java, Flutter, Node.js, and modern frameworks
-- ☁️ **Cloud & DevOps**: Implementing CI/CD pipelines, containerization (Docker), and cloud infrastructure (AWS/Azure/GCP)
-- 📊 **Data Engineering**: Working with Firebase, SQLite, Hive, and big data technologies
-- 🌐 **Global Solutions**: Creating applications that scale across UK, US, European, and Australian markets
-- 🚀 **Performance Optimization**: Ensuring applications handle high traffic with minimal latency
+- 🏗️ **Architecture & Development**: Building applications using Java, Flutter, Node.js, and modern frameworks
+- ☁️ **Cloud & DevOps**: Learning CI/CD pipelines, containerization (Docker), and cloud infrastructure (AWS/Azure)
+- 📊 **Data Engineering**: Working with Firebase, SQLite, Hive, and exploring big data technologies
+- 🌐 **Global Mindset**: Developing with international standards and scalability in mind
+- 🚀 **Performance Focus**: Optimizing applications for speed, reliability, and user experience
 
 ---
 
@@ -39,8 +37,8 @@ class PriyanshiSrivastava {
     String role = "Full-Stack Application Developer";
     String[] currentProjects = {
         "Metro Tracker APP - Real-time transit solutions",
-        "Achivo App - Global collaboration platform",
-        "Enterprise Cloud Migration Projects"
+        "Achivo App - Collaboration platform",
+        "Learning Cloud & DevOps Technologies"
     };
     
     String[] techStack = {
@@ -50,9 +48,9 @@ class PriyanshiSrivastava {
         "Docker", "Kubernetes", "Jenkins", "AWS", "Azure"
     };
     
-    String[] markets = {"UK", "Europe", "US", "Australia", "India"};
+    String[] learning = {"System Design", "Microservices", "DevOps", "Cloud Architecture"};
     
-    String currentGoal = "Building impactful applications that serve millions globally";
+    String currentGoal = "Building impactful applications with global reach";
 }
 ```
 
@@ -95,28 +93,20 @@ class PriyanshiSrivastava {
 ## 🚀 Featured Projects
 
 ### 🚇 **Metro Tracker APP**
-> Real-time transit tracking application serving thousands of daily users
+> Real-time transit tracking application
 - **Tech Stack**: Flutter, Dart, Firebase, Google Maps API
-- **Impact**: Reducing commute uncertainty by 40% through real-time tracking
+- **Impact**: Real-time tracking with route optimization
 - **Features**: Live updates, route optimization, crowd-sourced delay reporting
-- **Scale**: Designed for metropolitan areas across UK, Europe, and Australia
+- **Vision**: Designed to scale for metropolitan transit systems
 
 ### 🎯 **Achivo - Global Collaboration Platform**
 > Enterprise-grade project management and collaboration tool
-- **Tech Stack**: Spring Boot, React, PostgreSQL, Docker, AWS
-- **Impact**: Streamlining workflows for distributed teams across continents
+- **Tech Stack**: Supabase, Flutter, PostgreSQL, Docker, AWS
+- **Impact**: Streamlining workflows for distributed teams
 - **Features**: Real-time collaboration, task automation, analytics dashboard
-- **Markets**: Active users in India, UK, US, and Europe
+- **Architecture**: Built with microservices for scalability
 
-### 💼 **Enterprise Solutions Portfolio**
-> Custom applications for business process automation
-- **Tech Stack**: Java, Node.js, Microservices, Kubernetes
-- **Focus**: Scalable backend architecture, API development, cloud deployment
-- **Achievement**: Successfully deployed solutions handling 100K+ daily transactions
-
----
-
-## 📈 GitHub Analytics
+<!-- ## 📈 GitHub Analytics
 
 <div align="center">
   
@@ -126,20 +116,7 @@ class PriyanshiSrivastava {
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-devOps11&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-## 🌍 International Experience & Vision
-
-I'm actively developing applications that serve global markets with a focus on:
-
-- 🇬🇧 **United Kingdom**: Building fintech and transportation solutions
-- 🇪🇺 **Europe**: Creating GDPR-compliant enterprise applications
-- 🇺🇸 **United States**: Developing scalable SaaS platforms
-- 🇦🇺 **Australia**: Architecting cloud-native mobile applications
-
-**Vision**: To architect and deploy applications that improve lives for millions of users worldwide, leveraging cutting-edge technology and best practices from international markets.
+</div> -->
 
 ---
 
@@ -159,11 +136,11 @@ SCRIET, CCS University, Meerut | Currently in 6th Semester
 
 ## 💬 Let's Collaborate
 
-I'm always excited to work on:
-- 🌟 Open-source projects with global impact
-- 🚀 Innovative applications for international markets
-- 🤝 Cross-border team collaborations
-- 📚 Knowledge sharing and mentorship
+I'm excited to work on:
+- 🌟 Open-source projects that solve real problems
+- 🚀 Innovative applications with scalability potential
+- 🤝 Team collaborations and learning opportunities
+- 📚 Knowledge sharing and continuous learning
 
 ### 📫 Reach Out
 
@@ -175,11 +152,11 @@ I'm always excited to work on:
 
 ## ⚡ Fun Facts
 
-- 💡 I manifest my goals in the present tense - what I envision today becomes my reality tomorrow
-- 🎯 Passionate about making technology more accessible and fun for everyone
-- 🌏 Dream to lead development teams across UK, Europe, US, and Australia
-- 📚 Constantly learning new frameworks and technologies to stay ahead
-- 🏆 Believe in building applications that solve real-world problems at scale
+- 💡 I visualize my goals as already achieved - this mindset keeps me motivated and focused
+- 🎯 Passionate about making technology more accessible and impactful
+- 🌏 Aspiring to work with international teams and learn from diverse tech ecosystems
+- 📚 Always exploring new frameworks and technologies
+- 🏆 I believe in building solutions that solve real-world problems
 
 ---
 
@@ -187,7 +164,7 @@ I'm always excited to work on:
 
 ### 🌟 "Building the future, one line of code at a time"
 
-**Open to international opportunities | Remote-first | Available for challenging projects**
+**Passionate Developer | Lifelong Learner | Open to Opportunities**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyanshi-devOps11&color=blueviolet&style=flat-square)
 
