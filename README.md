@@ -14,13 +14,21 @@
 </div>
 
 ---
+## 📊 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-dev0ps11&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=94a3b8"
+    alt="GitHub Streak"
+  />
+</p>
 
 ## 💡 Current Focus
 
 ```java
 class PriyanshiSrivastava {
     String role = "Full-Stack Application Developer";
-    String focus = "Designing and building scalable, production-grade applications with strong backend engineering and cloud-first architecture";
+    String focus = "Scalable backend systems, cloud-first architecture and automation";
 }
 ```
 
@@ -54,21 +62,7 @@ class PriyanshiSrivastava {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
 
-## 🤝 Let's Collaborate
- I love collaborating on projects where engineering quality matters as much as shipping — cloud, DevOps and scalable backend systems.
+**🤝 Open to collaborating on production-ready full-stack applications with strong backend engineering and scalable frontend architecture.**
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-dev0ps11&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=94a3b8"
-    alt="GitHub Streak"
-  />
-</p>
-
-
-
-
-
-**⭐ If you find my work interesting, consider starring my repositories! ⭐**
+**⭐ If you find my work interesting, consider starring my repositories! ⭐**<br/>
 *Learning, building, and growing | Code with purpose | Open to Opportunities*
