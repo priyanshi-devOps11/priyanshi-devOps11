@@ -14,12 +14,6 @@
 
 ---
 
-## About Me-
-
-I'm a passionate **Application Developer** specializing in building scalable applications with a vision for global impact. With expertise in full-stack development, cloud technologies, and DevOps practices, I'm developing solutions that prioritize user experience and technical excellence.
-
----
-
 ## 🎯 What I Do
 
 - 🏗️ **Architecture & Development**: Building applications using Java, Flutter, Node.js, and modern frameworks
@@ -101,26 +95,24 @@ class PriyanshiSrivastava {
 
 ### 🎯 **Achivo - Global Collaboration Platform**
 > Enterprise-grade project management and collaboration tool
-- **Tech Stack**: Supabase, Flutter, PostgreSQL, Docker, AWS
+- **Tech Stack**: Spring Boot, React, PostgreSQL, Docker, AWS
 - **Impact**: Streamlining workflows for distributed teams
 - **Features**: Real-time collaboration, task automation, analytics dashboard
 - **Architecture**: Built with microservices for scalability
 
-📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshi-devOps11&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-devOps11&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshi-devOps11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=f1f5f9" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-devOps11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=f1f5f9" width="49%" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-devOps11&theme=tokyonight&hide_border=true)
-
-</div> 
+</div>
 
 ---
 
-## 🎓 Education
+
+## 🎓 Education 
 
 **Bachelor of Technology - Computer Science & Engineering**  
 SCRIET, CCS University, Meerut | Currently in 6th Semester
@@ -140,7 +132,6 @@ I'm excited to work on:
 - 🌟 Open-source projects that solve real problems
 - 🚀 Innovative applications with scalability potential
 - 🤝 Team collaborations and learning opportunities
-- 📚 Knowledge sharing and continuous learning
 
 ### 📫 Reach Out
 
@@ -150,11 +141,30 @@ I'm excited to work on:
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+### 🔥 Current Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-devOps11&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=94a3b8)
+
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshi-devOps11&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=22d3ee)
+
+### 💻 Stats & Languages
+
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshi-devOps11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=f1f5f9" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-devOps11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=f1f5f9" width="49%" alt="Top Languages" />
+
+</div>
+
+---
+
 ## ⚡ Fun Facts
 
-- 💡 I visualize my goals as already achieved - this mindset keeps me motivated and focused
-- 🎯 Passionate about making technology more accessible and impactful
-- 🌏 Aspiring to work with international teams and learn from diverse tech ecosystems
+- 🎯 I visualize my goals as already achieved - this mindset keeps me motivated and focused
 - 📚 Always exploring new frameworks and technologies
 - 🏆 I believe in building solutions that solve real-world problems
 
@@ -176,6 +186,6 @@ I'm excited to work on:
 
 **⭐ If you find my work interesting, consider starring my repositories! ⭐**
 
-*Creating impact through code | Thinking globally, coding universally*
+*Learning, building, and growing | Code with purpose*
 
 </div>
