@@ -20,15 +20,6 @@ SCRIET, CCS University, Meerut | Currently in 6th Semester
 
 ---
 
-## 🎯 What I Do
-
-- 🏗️ **Architecture & Development**: Building applications using Java, Flutter, Node.js, and modern frameworks
-- ☁️ **Cloud & DevOps**: Learning CI/CD pipelines, containerization (Docker), and cloud infrastructure (AWS/Azure)
-- 📊 **Data Engineering**: Working with Firebase, SQLite, Hive, and exploring big data technologies
-- 🌐 **Global Mindset**: Developing with international standards and scalability in mind
-- 🚀 **Performance Focus**: Optimizing applications for speed, reliability, and user experience
-
----
 
 ## 💡 Current Focus
 
