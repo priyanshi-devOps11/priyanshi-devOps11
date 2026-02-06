@@ -14,13 +14,6 @@
 </div>
 
 ---
-## 🎓 Education 
-
-**Bachelor of Technology - Computer Science & Engineering**  
-SCRIET, CCS University, Meerut | Currently in 6th Semester
-
----
-
 
 ## 💡 Current Focus
 
@@ -35,29 +28,24 @@ class PriyanshiSrivastava {
 
 ## 🛠️ Tech Stack
 
-**Languages**  
+**Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=dart)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/C++-blueviolet?style=flat&logo=cplusplus)
-
-**Frameworks**  
 ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
 
-**Data**  
+**DevOps / Cloud**  
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite)
 ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache)
-
-**DevOps / Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
@@ -71,23 +59,16 @@ class PriyanshiSrivastava {
 
 ## 📊 GitHub Overview
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-dev0ps11&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=94a3b8" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshi-dev0ps11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=f1f5f9&cache_seconds=1800" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-dev0ps11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=f1f5f9&cache_seconds=1800" width="49%" />
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshi-dev0ps11&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
-## ⚡ Fun Fact
-I enjoy refactoring messy systems more than building from scratch — turning chaos into clean architecture is my thing.
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-dev0ps11&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=94a3b8"
+    alt="GitHub Streak"
+  />
+</p>
 
 
-<div align="center">
+
+
 
 **⭐ If you find my work interesting, consider starring my repositories! ⭐**
-
 *Learning, building, and growing | Code with purpose | Open to Opportunities*
-
-</div>
