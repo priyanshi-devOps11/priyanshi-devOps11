@@ -88,17 +88,6 @@ class PriyanshiSrivastava {
 ![Jenkins](https://img.shields.io/badge/Jenkins-Intermediate-red?style=flat-square&logo=jenkins)
 ![Git](https://img.shields.io/badge/Git-Expert-orange?style=flat-square&logo=git)
 
----
-
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshi-devOps11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=f1f5f9" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-devOps11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=f1f5f9" width="49%" alt="Top Languages" />
-
-</div>
 
 ---
 
