@@ -44,7 +44,7 @@ class PriyanshiSrivastava {
     String[] techStack = {
         "Java", "Spring Boot", "Flutter", "Dart",
         "Node.js", "React", "JavaScript", "TypeScript",
-        "Firebase", "SQLite", "Hive", "PostgreSQL",
+        "Firebase", "SQLite", "Hive", "Supabase", "PostgreSQL",
         "Docker", "Kubernetes", "Jenkins", "AWS", "Azure"
     };
     
