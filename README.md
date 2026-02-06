@@ -65,4 +65,4 @@ class PriyanshiSrivastava {
 **🤝 Open to collaborating on production-ready full-stack applications with strong backend engineering and scalable frontend architecture.**
 
 **⭐ If you find my work interesting, consider starring my repositories! ⭐**<br/>
-*Learning, building, and growing | Code with purpose | Open to Opportunities*
+*Learning, building, and growing | Code with purpose | Open to Relocation*
