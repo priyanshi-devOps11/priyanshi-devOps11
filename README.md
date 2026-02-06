@@ -13,6 +13,12 @@
 </div>
 
 ---
+## 🎓 Education 
+
+**Bachelor of Technology - Computer Science & Engineering**  
+SCRIET, CCS University, Meerut | Currently in 6th Semester
+
+---
 
 ## 🎯 What I Do
 
@@ -84,21 +90,6 @@ class PriyanshiSrivastava {
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚇 **Metro Tracker APP**
-> Real-time transit tracking application
-- **Tech Stack**: Flutter, Dart, Firebase, Google Maps API
-- **Impact**: Real-time tracking with route optimization
-- **Features**: Live updates, route optimization, crowd-sourced delay reporting
-- **Vision**: Designed to scale for metropolitan transit systems
-
-### 🎯 **Achivo - Global Collaboration Platform**
-> Enterprise-grade project management and collaboration tool
-- **Tech Stack**: Spring Boot, React, PostgreSQL, Docker, AWS
-- **Impact**: Streamlining workflows for distributed teams
-- **Features**: Real-time collaboration, task automation, analytics dashboard
-- **Architecture**: Built with microservices for scalability
 
 ## 📈 GitHub Stats
 
@@ -111,20 +102,6 @@ class PriyanshiSrivastava {
 
 ---
 
-
-## 🎓 Education 
-
-**Bachelor of Technology - Computer Science & Engineering**  
-SCRIET, CCS University, Meerut | Currently in 6th Semester
-
-**Continuous Learning Focus:**
-- Advanced Cloud Architecture (AWS Solutions Architect)
-- Microservices Design Patterns
-- DevOps Best Practices & CI/CD
-- System Design for Scale
-- International Software Development Standards
-
----
 
 ## 💬 Let's Collaborate
 
@@ -141,25 +118,23 @@ I'm excited to work on:
 
 ---
 
-## 📊 GitHub Activity
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-### 🔥 Current Streak
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-devOps11&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=94a3b8)
 
-### 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshi-devOps11&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=22d3ee)
-
-### 💻 Stats & Languages
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=priyanshi-devOps11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=f1f5f9" width="49%" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-devOps11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=f1f5f9" width="49%" alt="Top Languages" />
 
-</div>
+<br/>
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=priyanshi-devOps11&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
 ---
 
 ## ⚡ Fun Facts
