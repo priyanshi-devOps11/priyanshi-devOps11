@@ -1,4 +1,3 @@
-# Hi there, I'm Priyanshi Srivastava 👋
 
 <div align="center">
   
@@ -127,20 +126,8 @@ I'm excited to work on:
 
 <div align="center">
 
-### 🌟 "Building the future, one line of code at a time"
-
-**Passionate Developer | Lifelong Learner | Open to Opportunities**
-
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshi-devOps11&color=blueviolet&style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
 **⭐ If you find my work interesting, consider starring my repositories! ⭐**
 
-*Learning, building, and growing | Code with purpose*
+*Learning, building, and growing | Code with purpose | Open to Opportunities*
 
 </div>
