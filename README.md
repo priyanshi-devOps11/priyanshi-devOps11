@@ -27,104 +27,62 @@ SCRIET, CCS University, Meerut | Currently in 6th Semester
 ```java
 class PriyanshiSrivastava {
     String role = "Full-Stack Application Developer";
-    String[] currentProjects = {
-        "Metro Tracker APP - Real-time transit solutions",
-        "Achivo App - Collaboration platform",
-        "Learning Cloud & DevOps Technologies"
-    };
-    
-    String[] techStack = {
-        "Java", "Spring Boot", "Flutter", "Dart",
-        "Node.js", "React", "JavaScript", "TypeScript",
-        "Firebase", "SQLite", "Hive", "Supabase", "PostgreSQL",
-        "Docker", "Kubernetes", "Jenkins", "AWS", "Azure"
-    };
-    
-    String[] learning = {"System Design", "Microservices", "DevOps", "Cloud Architecture"};
-    
-    String currentGoal = "Building impactful applications with global reach";
+    String focus = "Designing and building scalable, production-grade applications with strong backend engineering and cloud-first architecture";
 }
 ```
 
 ---
 
-## 🛠️ Technical Expertise
+## 🛠️ Tech Stack
 
-### **Languages**
-![Java](https://img.shields.io/badge/Java-Expert-orange?style=flat-square&logo=java)
-![Dart](https://img.shields.io/badge/Dart-Expert-blue?style=flat-square&logo=dart)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/Python-Intermediate-green?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/C++-Intermediate-purple?style=flat-square&logo=cplusplus)
+**Languages**  
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
+![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=dart)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python)
+![C++](https://img.shields.io/badge/C++-blueviolet?style=flat&logo=cplusplus)
 
-### **Frameworks & Libraries**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Expert-green?style=flat-square&logo=springboot)
-![Flutter](https://img.shields.io/badge/Flutter-Expert-blue?style=flat-square&logo=flutter)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/React-Advanced-blue?style=flat-square&logo=react)
-![Express](https://img.shields.io/badge/Express-Advanced-grey?style=flat-square&logo=express)
+**Frameworks**  
+![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
 
-### **Databases & Big Data**
-![Firebase](https://img.shields.io/badge/Firebase-Expert-orange?style=flat-square&logo=firebase)
-![SQLite](https://img.shields.io/badge/SQLite-Expert-blue?style=flat-square&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-green?style=flat-square&logo=mongodb)
-![Hive](https://img.shields.io/badge/Hive-Intermediate-yellow?style=flat-square&logo=apache)
+**Data**  
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite)
+![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache)
 
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-Advanced-blue?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-blue?style=flat-square&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-orange?style=flat-square&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/Azure-Intermediate-blue?style=flat-square&logo=microsoft-azure)
-![Jenkins](https://img.shields.io/badge/Jenkins-Intermediate-red?style=flat-square&logo=jenkins)
-![Git](https://img.shields.io/badge/Git-Expert-orange?style=flat-square&logo=git)
-
-
----
+**DevOps / Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 
 
-## 💬 Let's Collaborate
-
-I'm excited to work on:
-- 🌟 Open-source projects that solve real problems
-- 🚀 Innovative applications with scalability potential
-- 🤝 Team collaborations and learning opportunities
-
-### 📫 Reach Out
-
-- **Email**: [srivastavapriyanshi8081@gmail.com](mailto:srivastavapriyanshi8081@gmail.com)
-- **LinkedIn**: [linkedin.com/in/priyanshi-srivastava8119](https://www.linkedin.com/in/priyanshi-srivastava8119/)
-- **Location**: Delhi NCR, India | Open to International Opportunities
-
-
+## 🤝 Let's Collaborate
+ I love collaborating on projects where engineering quality matters as much as shipping — cloud, DevOps and scalable backend systems.
 
 ## 📊 GitHub Overview
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-dev0ps11&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=94a3b8" />
-
 <br/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=priyanshi-dev0ps11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=f1f5f9&cache_seconds=1800" width="49%" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-dev0ps11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=f1f5f9&cache_seconds=1800" width="49%" />
-
 <br/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=priyanshi-dev0ps11&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
 </div>
 
+## ⚡ Fun Fact
+I enjoy refactoring messy systems more than building from scratch — turning chaos into clean architecture is my thing.
 
-## ⚡ Fun Facts
-
-- 🎯 I visualize my goals as already achieved - this mindset keeps me motivated and focused
-- 📚 Always exploring new frameworks and technologies
-- 🏆 I believe in building solutions that solve real-world problems
-
----
 
 <div align="center">
 
