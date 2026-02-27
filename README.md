@@ -36,7 +36,7 @@ class PriyanshiSrivastava {
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
+**Languages & Frameworks**
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=dart)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
