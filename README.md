@@ -17,12 +17,10 @@
 * ⚡ Fun fact: I talk about microservices and load balancers even when making a cup of coffee.
 
 ---
+
 ### Connect with me:
 <table>
   <tr>
-    <td align="center" width="60">
-      <a href="https://twitter.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/twitter.svg" alt="Twitter" height="25" width="25" /></a>
-    </td>
     <td align="center" width="60">
       <a href="https://www.linkedin.com/in/priyanshi-srivastava8119/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/linkedin.svg" alt="LinkedIn" height="25" width="25" /></a>
     </td>
@@ -33,14 +31,13 @@
       <a href="https://leetcode.com/u/Priyanshi_srivastava11/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/leetcode.svg" alt="LeetCode" height="25" width="25" /></a>
     </td>
     <td align="center" width="60">
-      <a href="https://geeksforgeeks.org" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/geeksforgeeks.svg" alt="GeeksforGeeks" height="25" width="25" /></a>
+      <a href="https://www.geeksforgeeks.org/profile/srivastavaprv48n" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/geeksforgeeks.svg" alt="GeeksforGeeks" height="25" width="25" /></a>
     </td>
     <td align="center" width="60">
-      <a href="https://instagram.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/instagram.svg" alt="Instagram" height="25" width="25" /></a>
+      <a href="https://www.instagram.com/priyanshi_srivastava.11?igsh=dDVpbmJvc2hzYmpk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/instagram.svg" alt="Instagram" height="25" width="25" /></a>
     </td>
   </tr>
 </table>
-
 ---
 
 ### Languages and Tools:
