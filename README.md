@@ -17,24 +17,33 @@
 * ⚡ Fun fact: I talk about microservices and load balancers even when making a cup of coffee.
 
 ---
-
 ### Connect with me:
 <table>
   <tr>
-    <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/priyanshi-srivastava8119/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/linkedin.svg" alt="LinkedIn" height="25" width="25" /></a>
+    <td align="center" width="60" height="60">
+      <a href="https://www.linkedin.com/in/priyanshi-srivastava8119/" target="_blank">
+        <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="25" height="25" style="filter: invert(34%) sepia(85%) saturate(1825%) hue-rotate(193deg) brightness(92%) contrast(93%);" />
+      </a>
     </td>
-    <td align="center" width="60">
-      <a href="mailto:srivastavapriyanshi8081@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/gmail.svg" alt="Gmail" height="25" width="25" /></a>
+    <td align="center" width="60" height="60">
+      <a href="mailto:srivastavapriyanshi8081@gmail.com" target="_blank">
+        <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="25" height="25" style="filter: invert(27%) sepia(91%) saturate(2206%) hue-rotate(346deg) brightness(92%) contrast(102%);" />
+      </a>
     </td>
-    <td align="center" width="60">
-      <a href="https://leetcode.com/u/Priyanshi_srivastava11/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/leetcode.svg" alt="LeetCode" height="25" width="25" /></a>
+    <td align="center" width="60" height="60">
+      <a href="https://leetcode.com/u/Priyanshi_srivastava11/" target="_blank">
+        <img src="https://simpleicons.org/icons/leetcode.svg" alt="LeetCode" width="25" height="25" style="filter: invert(64%) sepia(82%) saturate(913%) hue-rotate(357deg) brightness(101%) contrast(102%);" />
+      </a>
     </td>
-    <td align="center" width="60">
-      <a href="https://www.geeksforgeeks.org/profile/srivastavaprv48n" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/geeksforgeeks.svg" alt="GeeksforGeeks" height="25" width="25" /></a>
+    <td align="center" width="60" height="60">
+      <a href="https://www.geeksforgeeks.org/profile/srivastavaprv48n" target="_blank">
+        <img src="https://simpleicons.org/icons/geeksforgeeks.svg" alt="GeeksforGeeks" width="25" height="25" style="filter: invert(37%) sepia(74%) saturate(452%) hue-rotate(94deg) brightness(91%) contrast(92%);" />
+      </a>
     </td>
-    <td align="center" width="60">
-      <a href="https://www.instagram.com/priyanshi_srivastava.11?igsh=dDVpbmJvc2hzYmpk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/instagram.svg" alt="Instagram" height="25" width="25" /></a>
+    <td align="center" width="60" height="60">
+      <a href="https://www.instagram.com/priyanshi_srivastava.11?igsh=dDVpbmJvc2hzYmpk" target="_blank">
+        <img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="25" height="25" style="filter: invert(35%) sepia(74%) saturate(2643%) hue-rotate(318deg) brightness(94%) contrast(98%);" />
+      </a>
     </td>
   </tr>
 </table>
