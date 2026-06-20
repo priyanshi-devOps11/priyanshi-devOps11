@@ -17,36 +17,38 @@
 * ⚡ Fun fact: I talk about microservices and load balancers even when making a cup of coffee.
 
 ---
+
 ### Connect with me:
 <table>
   <tr>
-    <td align="center" width="60" height="60">
+    <td align="center" width="65" height="60">
       <a href="https://www.linkedin.com/in/priyanshi-srivastava8119/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30" />
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" height="32" />
       </a>
     </td>
-    <td align="center" width="60" height="60">
+    <td align="center" width="65" height="60">
       <a href="mailto:srivastavapriyanshi8081@gmail.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/google_gmail/google_gmail-icon.svg" alt="Gmail" width="30" height="30" />
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="32" height="32" />
       </a>
     </td>
-    <td align="center" width="60" height="60">
+    <td align="center" width="65" height="60">
       <a href="https://leetcode.com/u/Priyanshi_srivastava11/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="32" height="32" />
+        <img src="https://img.shields.io/badge/-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="30" />
       </a>
     </td>
-    <td align="center" width="60" height="60">
+    <td align="center" width="65" height="60">
       <a href="https://www.geeksforgeeks.org/profile/srivastavaprv48n" target="_blank">
-        <img src="https://simpleicons.org/icons/geeksforgeeks.svg" alt="GeeksforGeeks" width="30" height="30" style="filter: brightness(0) invert(1);" />
+        <img src="https://cdn.simpleicons.org/geeksforgeeks/308D46" alt="GeeksforGeeks" width="30" height="30" />
       </a>
     </td>
-    <td align="center" width="60" height="60">
+    <td align="center" width="65" height="60">
       <a href="https://www.instagram.com/priyanshi_srivastava.11?igsh=dDVpbmJvc2hzYmpk" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30" />
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="32" height="32" />
       </a>
     </td>
   </tr>
 </table>
+
 ---
 
 ### Languages and Tools:
@@ -96,6 +98,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### GitHub Metrics:
