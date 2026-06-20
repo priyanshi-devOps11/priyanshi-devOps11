@@ -1,68 +1,87 @@
-# Hi there, I'm Priyanshi Srivastava 👋
-![Profile Views](https://komarev.com/ghpvc/?username=priyanshi-devOps11&color=blueviolet&style=flat-square)
+# Hi 👋, I'm Priyanshi Srivastava
 
-<div align="center">
-  
-### 🚀 Full-Stack Application Developer | Cloud & DevOps Focus
-**Building scalable solutions that impact millions globally**
+### Full-Stack Engineer & Mobile Architect
+**Designing Scalable, Distributed Systems & High-Performance Mobile Applications**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshi-srivastava8119/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:srivastavapriyanshi8081@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Priyanshi_srivastava11/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://priyanshi-devops11.github.io)
+<img src="https://komarev.com/ghpvc/?username=priyanshi-devOps11&label=Profile%20views&color=8a2be2&style=flat-square" alt="priyanshi-devOps11" />
 
-</div>
+* 🏗️ **Current Focus:** Deep diving into **System Design (HLD/LLD)**, distributed microservices, and architectural patterns.
+* 🔭 **Active Building:** Scaling cross-platform architectures and building cloud-native infrastructure pipelines.
+* 💬 **Ask me about:** Flutter/Dart ecosystem, Java backend patterns, Supabase/Firebase scaling, and Cloud solutions.
+* ⚡ **Core Strengths:** Optimizing execution workflows, designing database schemas, and data structures & algorithms.
+* 📫 **Reach me at:** srivastavapriyanshi8081@gmail.com
 
 ---
-## 📊 GitHub Streak
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-dev0ps11&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=94a3b8"
-    alt="GitHub Streak"
-  />
+### Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/priyanshi-srivastava8119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/linkedin.svg" alt="LinkedIn" height="28" width="38" /></a>
+  <a href="https://leetcode.com/u/Priyanshi_srivastava11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/components/display-external-media/networks/leetcode.svg" alt="LeetCode" height="28" width="38" /></a>
 </p>
 
-## 💡 Current Focus
+---
 
-```java
-class PriyanshiSrivastava {
-    String role = "Full-Stack Application Developer";
-    String focus = "Scalable backend systems, cloud-first architecture and automation";
-}
-```
+### Tech Stack & Core Architectural Tools:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter" />
+      <br /><sub><b>Flutter</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart" />
+      <br /><sub><b>Dart</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <br /><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin" />
+      <br /><sub><b>Kotlin</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot" />
+      <br /><sub><b>Spring Boot</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP" />
+      <br /><sub><b>GCP</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icn.svg" width="40" height="40" alt="Docker" />
+      <br /><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" />
+      <br /><sub><b>Kubernetes</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase" />
+      <br /><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40" alt="Supabase" />
+      <br /><sub><b>Supabase</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+### GitHub Metrics:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-devOps11&layout=compact&theme=dark" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshi-devOps11&show_icons=true&theme=dark" alt="GitHub Stats" height="165" />
+</p>
 
-**Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
-![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=dart)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python)
-![C++](https://img.shields.io/badge/C++-blueviolet?style=flat&logo=cplusplus)
-![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-devOps11&theme=dark" alt="GitHub Streak" />
+</p>
 
-**DevOps / Cloud**  
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite)
-![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+---
 
-
-**🤝 Open to collaborating on production-ready full-stack applications with strong backend engineering and scalable frontend architecture.**
-
-**⭐ If you find my work interesting, consider starring my repositories! ⭐**<br/>
-*Learning, building, and growing | Code with purpose | Open to Relocation*
+🤝 **Open to collaborating on scalable system architectures, robust backend microservices, and high-performance product code.**
