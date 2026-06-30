@@ -104,7 +104,7 @@
 ### GitHub Metrics:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-devOps11&layout=compact&theme=dark" alt="Top Langs" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshi-devOps11&show_icons=true&theme=dark" alt="GitHub Stats" height="165" />
+  
 </p>
 
 <p align="left">
