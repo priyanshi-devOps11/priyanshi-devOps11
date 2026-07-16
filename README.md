@@ -103,10 +103,7 @@
 ---
 
 ### GitHub Metrics:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-devOps11&layout=compact&theme=dark" alt="Top Langs" height="165" />
-  
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-devOps11&theme=dark" alt="GitHub Streak" />
